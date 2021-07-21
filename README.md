@@ -1,4 +1,4 @@
-### Hi there I'm Naeun👋
+### Hi I'm Naeun👋
 
 <!--
 **naeunhub/naeunhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
